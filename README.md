@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PankajVelavan
-- 👀 I’m interested in building java applications
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in building Web applications
+- 🌱 I’m currently learning Python
 - 📫 You can reach me at pankajvelavan@gmail.com
 
 <!---
