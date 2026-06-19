@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PankajVelavan
-- 👀 I’m interested in building Web applications
-- 🌱 I’m currently learning Python
+- 👀 I’m focusing on building Web applications
+- 🌱 I’m currently learning DSA
 - 📫 You can reach me at pankajvelavan@gmail.com
 
 <!---
